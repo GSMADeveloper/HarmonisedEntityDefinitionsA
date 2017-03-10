@@ -4,7 +4,7 @@ This entity contains a harmonised description of a generic parcel of land. This 
 
 &lt;AgriParcel&gt;&lt;Generic Attributes&gt;
 
-| Attribute Name | Attribute Type | Description                                                                                                                                                                                                                             | Mandatory/Optional | May be Null |
+| Attribute Name | Attribute Type | Description                                                                                                                                                                                                                             | Mandatory/ Optional | May be Null |
 |----------------|----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|-------------|
 | id             | Text           | Unique id of this instance of this entity.                                                                                                                                                                                              | M                  | N           |
 | type           | Text           | Must be equal to "**AgriParcel**".                                                                                                                                                                                                      | M                  | N           |
@@ -16,7 +16,7 @@ This entity contains a harmonised description of a generic parcel of land. This 
 
 &lt;AgriParcel&gt;&lt;Entity Specific Attributes&gt;
 
-| Attribute Name  | Attribute Type                          | Description                                                                                                                | Mandatory/Optional | May be Null |
+| Attribute Name  | Attribute Type                          | Description                                                                                                                | Mandatory/ Optional | May be Null |
 |-----------------|-----------------------------------------|----------------------------------------------------------------------------------------------------------------------------|--------------------|-------------|
 | location        | geo:json                                | The geo:json encoded polygon describing this parcel.                                                                       | M                  | N           |
 | area            | Number or ExtQuantitativeValue (Number) | The area of the parcel in square meters encoded as a Number or a ExtQuantitativeValue.                                     | M                  | N           |
