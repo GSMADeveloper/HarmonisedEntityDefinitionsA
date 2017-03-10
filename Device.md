@@ -47,8 +47,8 @@ The JSON code can be downloaded from:
 <https://gist.github.com/GSMADeveloper/8bec6a39f34601fffc430b7b0f306df8>
 ```json
 {
-  "id": "57b912ab-eb47-4cd5-bc9d-73abece1f1b3",
-  "type": "BuildingType",
+  "id": "ba2d4fd9-f57f-4610-a589-2d52670d14f3",
+  "type": "Device",
   "dateCreated": {
     "value": "2016-08-08T10:18:16Z",
     "type": "DateTime"
@@ -69,24 +69,106 @@ The JSON code can be downloaded from:
     "value": "1.0",
     "type": "Text"
   },
-  "name": {
-    "value": "House",
+  "refDeviceModel": {
+    "value": "d1be2e61-d9e7-43cd-9c68-51e0861b3a49",
+    "type": "Reference"
+  },
+  "serialNumber": {
+    "value": "123456789",
     "type": "Text"
+  },
+  "supplierName": {
+    "value": "ACME Direct, Inc.",
+    "type": "Text"
+  },
+  "manufacturerCountry": {
+    "value": "UK",
+    "type": "Text"
+  },
+  "factory": {
+    "value": "56A8",
+    "type": "Text"
+  },
+  "dateManufactured": {
+    "value": "2016-08-21T10:18:16Z",
+    "type": "DateTime"
   },
   "description": {
-    "value": "Standard building type definition for a domestic house",
+    "value": "Thermocouple",
     "type": "Text"
   },
-  "root": {
-    "value": false,
-    "type": "Boolean"
-  },
-  "refParentType": {
+  "owner": {
     "value": [
-      "4146335f-839f-4ff9-a575-6b4e6232b734",
-      "c44fc765-51a7-4f71-bf1e-22e874c35180"
+      "43c46ff2-b0f7-4e4f-838a-adee1c9cae88",
+      "ebf421c9-363b-4ed4-97a0-93a6e39786ff"
     ],
     "type": "List"
+  },
+  "dateInstalled": {
+    "value": "2016-08-22T10:18:16Z",
+    "type": "DateTime"
+  },
+  "dateFirstUsed": {
+    "value": "2016-08-22T10:18:16Z",
+    "type": "DateTime"
+  },
+  "hardwareVersion": {
+    "value": "1.2",
+    "type": "Text"
+  },
+  "firmwareVersion": {
+    "value": "2.8.56",
+    "type": "Text"
+  },
+  "softwareVersion": {
+    "value": "2.5.11",
+    "type": "Text"
+  },
+  "osVersion": {
+    "value": "8.1",
+    "type": "Text"
+  },
+  "supportedProtocol": {
+    "value": [
+      "HTTP",
+      "HTTPS",
+      "FTP"
+    ],
+    "type": "List"
+  },
+  "location": {
+    "value": {
+      "type": "Point",
+      "coordinates": [
+        -104.99404,
+        39.75621
+      ]
+    },
+    "type": "geo:json"
+  },
+  "online": {
+    "value": true,
+    "type": "Boolean"
+  },
+  "status": {
+    "value": "SC1001",
+    "type": "Text"
+  },
+  "dateLastCalibration": {
+    "value": "2016-08-22T10:18:16Z",
+    "type": "DateTime"
+  },
+  "batteryLevel": {
+    "value": {
+      "value": 0.7
+    },
+    "type": "ExtQuantitativeValue"
+  },
+  "value": {
+    "value": {
+      "value": 1
+    },
+    "type": "ExtQuantitativeValue"
   }
 }
 ```
