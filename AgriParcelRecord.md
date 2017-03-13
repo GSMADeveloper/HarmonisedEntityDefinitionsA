@@ -33,7 +33,7 @@ This entity contains a harmonised description of the conditions recorded on a ge
 
 The JSON code can be downloaded from:
 
-<https://gist.github.com/GSMADeveloper/bc089529b7966099cd11bc0e2b0bb283>
+<https://gist.github.com/GSMADeveloper/fbd5aeff87e6b73322bea447d5b0bb94>
 ```json
 {
   "id": "8f5445e6-f49b-496e-833b-e65fc97fcab7",
