@@ -27,7 +27,7 @@ This entity contains a harmonised description of a generic agricultural product 
 
 The JSON code can be downloaded from:
 
-<https://gist.github.com/GSMADeveloper/e78f090452ce8f63adfba472fe43c5d7>
+<https://gist.github.com/GSMADeveloper/6f5b29763c09d621f7e154e69d18a02c>
 ```json
 {
   "id": "398aa5f4-6a81-4dea-9f85-e9869441a257",
