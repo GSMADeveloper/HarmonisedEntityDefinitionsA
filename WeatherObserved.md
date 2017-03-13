@@ -38,7 +38,7 @@ This entity contains a harmonised description of the weather at a particular loc
 
 The JSON code can be downloaded from:
 
-<https://gist.github.com/GSMADeveloper/ef466feddc874fb801b163c6c977f052>
+<https://gist.github.com/GSMADeveloper/f592f7923c97cd5c6d18bc44a42b7050>
 ```json
 {
   "id": "adb144fb-e732-4944-a192-8690bd17de8c",
