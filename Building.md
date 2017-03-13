@@ -36,7 +36,7 @@ This entity contains a harmonised description of a Building. This entity is asso
 
 The JSON code can be downloaded from:
 
-<https://gist.github.com/GSMADeveloper/4994b9f4f6907a9a96bdb499899cc27f>
+<https://gist.github.com/GSMADeveloper/69f8893b605894640e3b99f82c3f20ed>
 ```json
 {
   "id": "f95c06e3-776e-4a57-9b00-a85e3da145c1",
