@@ -41,7 +41,7 @@ This entity contains a harmonised description of a generic product. This entity 
 
 The JSON code can be downloaded from:
 
-<https://gist.github.com/GSMADeveloper/xxxxxxxx>TBC
+<https://gist.github.com/GSMADeveloper/0817901a9f8ae3440ab751513acdf88e>
 ```json
 {
   "id": "6223903a-d8c5-4e7e-af24-cc90967feb61",
