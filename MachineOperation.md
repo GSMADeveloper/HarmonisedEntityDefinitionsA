@@ -34,7 +34,7 @@ This entity contains a harmonised description of a generic machine operation. Th
 
 The JSON code can be downloaded from:
 
-<https://gist.github.com/GSMADeveloper/a2a2795c194831ac06c48222eb49e2ce>
+<https://gist.github.com/GSMADeveloper/32169966d47e0e128bb37fe08937dfd3>
 ```json
 {
   "id": "27577638-bd8a-4732-b418-fc8b949a0b0f",
