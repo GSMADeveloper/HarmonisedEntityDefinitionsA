@@ -37,7 +37,7 @@ This entity contains a harmonised description of the air quality observed at a p
 
 The JSON code can be downloaded from:
 
-<https://gist.github.com/GSMADeveloper/xxxxxxxx>TBC
+<https://gist.github.com/GSMADeveloper/d1e46adc706d986ee9e752a5b425bcca>
 ```json
 {
   "id": "c9f32b35-a185-48e2-835f-c521efc294ab",
