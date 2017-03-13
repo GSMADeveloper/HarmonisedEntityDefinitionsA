@@ -28,7 +28,7 @@ This entity contains a harmonised geographic and contextual description of a Roa
 
 The JSON code can be downloaded from:
 
-<https://gist.github.com/GSMADeveloper/fce0066af2ef3aad51eb20a139501303>
+<https://gist.github.com/GSMADeveloper/aa8dc76b8702be6e0f9509563c308861>
 ```json
 {
   "id": "19b6f4b7-a9b4-4114-8391-3133bf96aedc",
