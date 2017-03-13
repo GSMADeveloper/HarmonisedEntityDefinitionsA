@@ -39,7 +39,7 @@ This entity contains a harmonised description of the water quality at a particul
 
 The JSON code can be downloaded from:
 
-<https://gist.github.com/GSMADeveloper/5252d6628d7a06472c7e7fc366b7ee23>
+<https://gist.github.com/GSMADeveloper/e23befb590592ddefa6fd817d38919f0>
 ```json
 {
   "id": "72a30ca8-888e-49a2-8d8d-a5bebc19e98b",
