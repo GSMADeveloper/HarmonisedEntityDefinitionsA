@@ -30,7 +30,7 @@ This entity contains a harmonised description of a subscriber to a service. This
 
 The JSON code can be downloaded from:
 
-<https://gist.github.com/GSMADeveloper/a2be9b6079309c8ea2d7a6830c31c306>
+<https://gist.github.com/GSMADeveloper/4bdc07091dd7fd8af7abcb58103ba513>
 ```json
 {
   "id": "c1716dea-6a4d-4171-a733-916123942f09",
