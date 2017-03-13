@@ -44,7 +44,7 @@ This entity contains a harmonised description of a generic device. This entity p
 
 The JSON code can be downloaded from:
 
-<https://gist.github.com/GSMADeveloper/8bec6a39f34601fffc430b7b0f306df8>
+<https://gist.github.com/GSMADeveloper/b29f6f3841d778d455e58fcad74c637d>
 ```json
 {
   "id": "ba2d4fd9-f57f-4610-a589-2d52670d14f3",
