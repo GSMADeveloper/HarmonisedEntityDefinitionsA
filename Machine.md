@@ -38,7 +38,7 @@ This entity contains a harmonised description of an industrial machine for examp
 
 The JSON code can be downloaded from:
 
-<https://gist.github.com/GSMADeveloper/aaa70bd157da04b6246d35525a7ffbcc>
+<https://gist.github.com/GSMADeveloper/7b8303207db9fd5b7cf933ca360a5dd7>
 ```json
 {
   "id": "9166c528-9c98-4579-a5d3-8068aea5d6c0",
