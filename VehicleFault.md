@@ -31,7 +31,7 @@ This entity contains a harmonised description of a Vehicle Fault. This entity is
 
 The JSON code can be downloaded from:
 
-<https://gist.github.com/GSMADeveloper/2e40b95654493bc44cabe360e9c3f82d>
+<https://gist.github.com/GSMADeveloper/9a70cc18bd403c7115d0ffec8ecc2ecf>
 ```json
 {
   "id": "4939200a-5ef5-4266-8c91-1f82ad3b543b",
