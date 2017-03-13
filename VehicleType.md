@@ -26,7 +26,7 @@ This entity contains a harmonised description of a vehicleType it forms part of 
 
 The JSON code can be downloaded from:
 
-<https://gist.github.com/GSMADeveloper/7be3126e94779c6467fb56e1b3b0935d>
+<https://gist.github.com/GSMADeveloper/50133c6710743c065dc5f2f982b698fd>
 ```json
 {
   "id": "33253089-9cea-4227-889e-61950965f6f9",
