@@ -32,7 +32,7 @@ This entity contains a harmonised description of the conditions recorded within 
 
 The JSON code can be downloaded from:
 
-<https://gist.github.com/GSMADeveloper/ba3f1acd21bd476600ad0f4a21f1260b>
+<https://gist.github.com/GSMADeveloper/7936c30b050b698eed3fecfe43773b7a>
 ```json
 {
   "id": "ad500806-05ea-4ab6-812a-7a315d98e88d",
