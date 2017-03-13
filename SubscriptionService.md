@@ -25,7 +25,7 @@ This entity contains a harmonised description of a subscription service. This en
 
 The JSON code can be downloaded from:
 
-<https://gist.github.com/GSMADeveloper/1631ff51b1aa49a0422741f9b5631ecf>
+<https://gist.github.com/GSMADeveloper/08c9d422617b832bc1c04d164973c172>
 ```json
 {
   "id": "a1e76f95-c627-4ec4-86dc-483431d25352",
