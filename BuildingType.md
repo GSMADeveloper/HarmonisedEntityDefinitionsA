@@ -27,7 +27,7 @@ This entity contains a harmonised description of a generic building type. This e
 
 The JSON code can be downloaded from:
 
-<https://gist.github.com/GSMADeveloper/e7553da5f75bc32e9f02024e7cdca0b1>
+<https://gist.github.com/GSMADeveloper/8e82b3af9d333ca56658acff1a6f20ca>
 ```json
 {
   "id": "57b912ab-eb47-4cd5-bc9d-73abece1f1b3",
