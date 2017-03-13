@@ -33,7 +33,7 @@ AgriCrop JSON
 
 The JSON code can be downloaded from:
 
-<https://gist.github.com/GSMADeveloper/00685ca0edd54411cad5be84ee658da8>
+<https://gist.github.com/GSMADeveloper/c02633ceaab7f18afd489b559d2ab0f4>
 
 ```json
 {
