@@ -4,7 +4,7 @@ This entity contains a harmonised description of an industrial machine for examp
 
 &lt;Machine&gt;&lt;Generic Attributes&gt;
 
-| Attribute Name | Attribute Type | Description                                                                                                                                                                                                                             | Mandatory/Optional | May be Null |
+| Attribute Name | Attribute Type | Description                                                                                                                                                                                                                             | Mandatory/ Optional | May be Null |
 |----------------|----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|-------------|
 | id             | Text           | Unique id of this instance of this entity.                                                                                                                                                                                              | M                  | N           |
 | type           | Text           | Must be equal to "**Machine**".                                                                                                                                                                                                         | M                  | N           |
@@ -16,7 +16,7 @@ This entity contains a harmonised description of an industrial machine for examp
 
 &lt;Machine&gt;&lt;Entity Specific Attributes&gt;
 
-| Attribute Name         | Attribute Type    | Description                                                                                                                             | Mandatory/Optional | May be Null |
+| Attribute Name         | Attribute Type    | Description                                                                                                                             | Mandatory/ Optional | May be Null |
 |------------------------|-------------------|-----------------------------------------------------------------------------------------------------------------------------------------|--------------------|-------------|
 | refMachineModel        | Reference         | Refers to the machineModel that this machine is an instance of.                                                                         | M                  | N           |
 | serialNumber           | Text              | The serial number assigned by the manufacturer.                                                                                         | M                  | N           |
