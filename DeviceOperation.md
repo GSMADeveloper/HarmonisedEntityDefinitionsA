@@ -35,7 +35,7 @@ This entity contains a harmonised description of a generic device operation enti
 
 The JSON code can be downloaded from:
 
-<https://gist.github.com/GSMADeveloper/581d2de918e01fb05efd35f27686f361>
+<https://gist.github.com/GSMADeveloper/dbaba83f8fab072c6a4765823228cc12>
 ```json
 {
   "id": "27577638-bd8a-4732-b418-fc8b949a0b0f",
