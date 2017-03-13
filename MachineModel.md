@@ -34,7 +34,7 @@ This entity contains a harmonised description of a generic machine model. This e
 
 The JSON code can be downloaded from:
 
-<https://gist.github.com/GSMADeveloper/10d7c9ffca1e4d1e498203f85dc0991d>
+<https://gist.github.com/GSMADeveloper/d292853b17e78269856715a005b7a733>
 ```json
 {
   "id": "e01f13d1-fea4-4cc4-92c9-0d9fadb2c509",
