@@ -40,7 +40,7 @@ This entity contains a harmonised description of a Weather Forecast. This entity
 
 The JSON code can be downloaded from:
 
-<https://gist.github.com/GSMADeveloper/c7beae7a0e9797d2358db6cf1c190fc2>
+<https://gist.github.com/GSMADeveloper/fe74d7f9573c53bc46b5199d2ab9c847>
 ```json
 {
   "id": "7453c443-290d-44ef-a60f-d4c087010c88",
