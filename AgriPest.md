@@ -27,7 +27,7 @@ This entity contains a harmonised description of a generic agricultural pest. Th
 
 The JSON code can be downloaded from:
 
-<https://gist.github.com/GSMADeveloper/cbab7c37630eb7ea87b503267d0696a1>
+<https://gist.github.com/GSMADeveloper/df22eca28701a239b49cc744be8eb1ad>
 ```json
 {
   "id": "fb3f1295-500c-4aa3-b995-c909097d5c01",
