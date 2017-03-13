@@ -36,7 +36,7 @@ This entity contains a harmonised description of a generic operation (related to
 
 The JSON code can be downloaded from:
 
-<https://gist.github.com/GSMADeveloper/bf5d982f79ab40934d6d38767b5f8f82>
+<https://gist.github.com/GSMADeveloper/2c15fe4070fbbf5ed5227ccabf19b639>
 ```json
 {
   "id": "57b912ab-eb47-4cd5-bc9d-73abece1f1b3",
