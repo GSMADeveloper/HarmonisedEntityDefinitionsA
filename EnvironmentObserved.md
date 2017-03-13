@@ -28,7 +28,7 @@ This entity contains a harmonised description of the environmental conditions ob
 
 The JSON code can be downloaded from:
 
-<https://gist.github.com/GSMADeveloper/c393d8082375c9f211ef797d5581c602>
+<https://gist.github.com/GSMADeveloper/63d18a7f5845aa201c9470d84b7912f8>
 ```json
 {
   "id": "33f02632-74f4-4c96-9ba1-e26945de9481",
