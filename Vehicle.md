@@ -31,7 +31,7 @@ This entity contains a harmonised description of a Vehicle. This entity is prima
 
 The JSON code can be downloaded from:
 
-<https://gist.github.com/GSMADeveloper/f28833b6c5c51c3e79fa6f7dfa1a7864>
+<https://gist.github.com/GSMADeveloper/0e22f3200c12c9e725148eafca6b225c>
 ```json
 {
   "id": "1fa179a6-b507-4857-ad72-eb5513ef05c6",
