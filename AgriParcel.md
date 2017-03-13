@@ -32,7 +32,7 @@ This entity contains a harmonised description of a generic parcel of land. This 
 
 The JSON code can be downloaded from:
 
-<https://gist.github.com/GSMADeveloper/80f69a2558080798d6e661122d3f0cf8>
+<https://gist.github.com/GSMADeveloper/b82444f8ace1a379215b0b70a93d0bf5>
 ```json
 {
 	"id": "72d9fb43-53f8-4ec8-a33c-fa931360259a",
