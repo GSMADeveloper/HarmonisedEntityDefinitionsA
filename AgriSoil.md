@@ -27,7 +27,7 @@ This entity contains a harmonised description of soil. This entity is primarily 
 
 The JSON code can be downloaded from:
 
-<https://gist.github.com/GSMADeveloper/3df400c35ce449a78ae5124ce07d99ce>
+<https://gist.github.com/GSMADeveloper/a3eae9503c856c835b56c8c98603cd5f>
 ```json
 {
   "id": "789363b4-c771-43d6-8505-ca582efe8fcd",
