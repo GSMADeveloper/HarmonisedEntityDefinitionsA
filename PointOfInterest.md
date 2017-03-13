@@ -27,7 +27,7 @@ This entity contains a harmonised geographic description of a Point of Interest.
 
 The JSON code can be downloaded from:
 
-<https://gist.github.com/GSMADeveloper/d9f9c492f06a96e6c6b06938002a3505>
+<https://gist.github.com/GSMADeveloper/4cd7203d66ccf2caf2123cf4519f5f74>
 ```json
 {
   "id": "44e47705-90c3-4dbc-a0ae-7810306de5e9",
