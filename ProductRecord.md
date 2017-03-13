@@ -29,7 +29,7 @@ This entity contains a harmonised description of the conditions recorded as a ge
 
 The JSON code can be downloaded from:
 
-<https://gist.github.com/GSMADeveloper/xxxxxxxx>TBC
+<https://gist.github.com/GSMADeveloper/4c2fc701cf2bf121b360613cf27ba8d4>
 ```json
 {
   "id": "85d05a21-6907-44b3-83d8-85d8a713d003",
