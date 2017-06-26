@@ -1,4 +1,4 @@
-###AirQualityObserved
+### AirQualityObserved
 
 This entity contains a harmonised description of the air quality observed at a particular location and time. This entity is primarily associated with the vertical segment of the environment and may also be used in smart homes, smart cities, agriculture, industry and related IoT applications.
 
